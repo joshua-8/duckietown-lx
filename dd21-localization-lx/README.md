@@ -18,7 +18,7 @@ For guided setup instructions, lecture content, and more related to this LX, see
 Before you start working through this activity, you should read through the following sections:
 
 - [Background](./notebooks/00-theory/00-overview.md)
-- [Introduction](./notebooks/00-theory/01-introduction.md)
+- [Introduction](./notebooks/00-theory/01-implementation.md)
 
 **Important:** when you first open these documents a security pop-up will appear in the top right corner; click on it and select `Disable` in the menu that appears. This will allow you to visualize the theory content.
 
